@@ -11,7 +11,7 @@ This project explores factors influencing bike purchases through data cleaning, 
    3️⃣ Standardized gender values ("M" → "Male", "F" → "Female") and formatted income as currency.
   
   :four: Introduced an "Age Bracket" column using a nested IF statement to classify individuals as "Young," "Middle-Aged," or "Old."
-      =IF(L2:L1001 > 50, "Old", IF( L2:L1001 > 30, "Middle-Aged", IF(L2:L1001 < 31, "Young", "Invalid")))
+   =IF(L2:L1001 > 50, "Old", IF( L2:L1001 > 30, "Middle-Aged", IF(L2:L1001 < 31, "Young", "Invalid")))
 
 ✅ Data Analysis & Visualization:
 
