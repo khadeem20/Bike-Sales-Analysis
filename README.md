@@ -21,11 +21,10 @@ This project explores factors influencing bike purchases through data cleaning, 
 
     2️⃣ Assessed how commute distance affects purchasing behavior.
 
-    ![image](https://github.com/user-attachments/assets/69af9bbd-af82-4161-9668-3e5141d09876)
-
+   
     3️⃣ Examined the relationship between age brackets and bike purchases.
 
-    ![image](https://github.com/user-attachments/assets/20e6cf73-72d7-4c0c-bae8-09bdcd1da837)
+
 
 
   Interactive Dashboard:
