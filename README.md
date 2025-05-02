@@ -17,11 +17,21 @@ This project explores factors influencing bike purchases through data cleaning, 
 
   Pivot Tables:
     1️⃣ Analyzed the impact of gender & average income on bike purchases.
+    ![image](https://github.com/user-attachments/assets/ef66ebc6-2b35-4bfd-9963-5ef3751f9ecb)
+
     2️⃣ Assessed how commute distance affects purchasing behavior.
+
+    ![image](https://github.com/user-attachments/assets/69af9bbd-af82-4161-9668-3e5141d09876)
+
     3️⃣ Examined the relationship between age brackets and bike purchases.
+
+    ![image](https://github.com/user-attachments/assets/20e6cf73-72d7-4c0c-bae8-09bdcd1da837)
+
 
   Interactive Dashboard:
   
    1️⃣ Visualized insights from pivot tables using charts.
     
    2️⃣ Enhanced with three slicers for filtering by education, region, and marital status.
+   ![image](https://github.com/user-attachments/assets/2474f2b0-c1b5-44d5-9073-3228a58763b4)
+
